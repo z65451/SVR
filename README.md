@@ -9,6 +9,13 @@ Code for paper "Saliency-aware Stereoscopic Video Retargeting"
 
 # Training
 
+First install the requirements:
+
+```
+pip3 install requirements
+```
+
+
 ## Download the datasets
 First fownload the KITTI stereo video 2015 and 2012 datasets from the following link:
 
