@@ -36,4 +36,6 @@ Run the following command to start the training:
 sudo python3 main.py
 ```
 
+The trained model will be saved in the "models/" directory.
+
 
