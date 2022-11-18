@@ -47,6 +47,10 @@ The trained model will be saved in the "models/" directory.
 
 
 # Testing
+Download the pre-trained model from th following link as put it in "models/" directory:
+
+
+Run the following command to start testing:
 
 ```
 sudo python3 main.py --train_or_test test
