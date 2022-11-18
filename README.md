@@ -5,6 +5,8 @@ Code for paper "Saliency-aware Stereoscopic Video Retargeting"
 
 ![alt text](https://github.com/z65451/SVR/blob/main/model.jpg)
 
+![alt text](https://github.com/z65451/SVR/blob/main/model.jpg)
+
 # Training
 
 ## Download the datasets
