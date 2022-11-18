@@ -38,19 +38,30 @@ sudo python3 main.py
 
 The trained model will be saved in the "models/" directory.
 
-$ tree -d
+
 
 data
+
 ├── cats_vs_dogs
+
 │   ├── test_cat_dog
+
 │   ├── testing
+
 │   │   ├── cats
+
 │   │   └── dogs
+
 │   └── training
+
 │       ├── cats
+
 │       └── dogs
+
 └── PetImages
+
     ├── Cat
+    
     └── Dog
 
 
