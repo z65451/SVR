@@ -3,6 +3,8 @@
 Code for paper "Saliency-aware Stereoscopic Video Retargeting"
 
 
+![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1XFHFNJJ0O6AdfvgiqIeXnZE6QRGJeaiJ/view?usp=share_link))
+
 # Training
 
 ## Download the datasets
