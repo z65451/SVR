@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+Pillow
+numba
+flask
+flask-cors

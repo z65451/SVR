@@ -1,0 +1,14 @@
+codecov:
+  require_ci_to_pass: yes
+
+coverage:
+  precision: 2
+  round: down
+
+comment:
+  layout: "header, diff, changes, tree"
+  behavior: default
+  require_changes: no
+
+  ignore:
+    - "tools"
