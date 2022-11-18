@@ -11,6 +11,16 @@ First fownload the KITTI stereo video 2015 and 2012 datasets from the following 
 https://www.cvlibs.net/datasets/kitti/eval_stereo.php
 
 
+## Download the weights of CoSD
+
+Download the weights of the saliency detection method from the following like:
+
+https://github.com/suyukun666/UFO
+
+And put them in the "models/" folder
+
+https://github.com/suyukun666/UFO
+
 Run the following command:
 sudo python3 main.py
 
