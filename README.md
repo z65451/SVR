@@ -40,7 +40,7 @@ https://github.com/SteffenCzolbe/PerceptualSimilarity
 Run the following command to start the training:
 
 ```
-sudo python3 main.py
+sudo python3 main.py --train_or_test train
 ```
 
 The trained model will be saved in the "models/" directory.
@@ -48,5 +48,7 @@ The trained model will be saved in the "models/" directory.
 
 # Testing
 
-
+```
+sudo python3 main.py --train_or_test test
+```
 
