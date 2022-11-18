@@ -19,7 +19,11 @@ https://github.com/suyukun666/UFO
 
 And put them in the "models/" folder
 
-https://github.com/suyukun666/UFO
+For calculating the perceptual loss, clone the following repository and put it in the "PerceptualSimilarity/" directory:
+
+https://github.com/SteffenCzolbe/PerceptualSimilarity
+
+
 
 Run the following command:
 sudo python3 main.py
