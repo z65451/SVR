@@ -49,6 +49,7 @@ The trained model will be saved in the "models/" directory.
 # Testing
 Download the pre-trained model from th following link as put it in "models/" directory:
 
+https://drive.google.com/file/d/11mlx1PRh-oFzOTLABAkySk7_DGLvEmyw/view?usp=share_link
 
 Run the following command to start testing:
 
