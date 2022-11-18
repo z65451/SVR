@@ -32,6 +32,8 @@ https://github.com/SteffenCzolbe/PerceptualSimilarity
 
 Run the following command to start the training:
 
+```
 sudo python3 main.py
+```
 
 
